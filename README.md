@@ -1,5 +1,5 @@
-Beginner programmer
-Kinda new to github
+Beginner programmer,
+Kinda new to github,
 I like to learn things
 
 
